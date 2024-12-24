@@ -1,0 +1,12 @@
+scikit-learn
+numpy
+pandas
+flask
+python-dotenv
+mecab-python3
+unidic-lite
+gunicorn
+fastapi
+youtube_transcript_api
+langdetect
+uvicorn
