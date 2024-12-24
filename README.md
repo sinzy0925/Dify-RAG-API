@@ -14,4 +14,8 @@
 - ２）cloudflare起動(Ngrokでは公開できなかったため導入した)
 - ```.\cloudflared-windows-amd64 tunnel run rag-api```
 
+## difyのDSLファイル
+- ```https://app.box.com/s/t10lwqgjte2k66ivciryqtlsbrx2j991```
+
+
      
